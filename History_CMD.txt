@@ -1,0 +1,243 @@
+    1  sudo apt install ./google-chrome-stable_current_amd64.deb 
+    2  exit
+    3  ll
+    4  npm i
+    5  curl -sL https://deb.nodesource.com/setup_17.x | sudo -E bash -
+    6  sudo apt install curl
+    7  curl -sL https://deb.nodesource.com/setup_17.x | sudo -E bash -
+    8  sudo apt-get install -y nodejs
+    9  node -v
+   10  sudo snap install dbeaver-ce
+   11  sudo apt install mariadb-server
+   12  sudo systemctl start mariadb.service
+   13  sudo mysql_secure_installation
+   14  sudo mysql
+   15  mysql -u root -p
+   16  sudo mysql
+   17  mysql -u root -p
+   18  cd Downloads/q
+   19  cd Downloads/
+   20  sudo apt install ./mysql-workbench-community_8.0.29-1ubuntu20.04_amd64.deb 
+   21  sudo apt install vlc
+   22  sudo apt install gimp
+   23  sudo apt-get install spotify-client
+   24  sudo snap install spotify
+   25  sudo snap install leafpad
+   26  sudo snap install postman
+   27  ll
+   28  sudo apt install ./virtualbox-6.1_6.1.34-150636.1_Ubuntu_eoan_amd64.deb 
+   29  sudo add-apt-repository universe
+   30  $ sudo apt install gnome-tweak-tool
+   31  sudo apt install gnome-tweak-tool
+   32  gnome-tweaks
+   33  https://snapcraft.io/install/gnome-clocks/ubuntu#install
+   34  sudo snap install gnome-clocks
+   35  exit
+   36  history 
+   37  code .
+   38  node sequelize-auto -h localhost -d mohit -u root -x root -p 3306 -l esm --dialect MariaDB -c "../../package.json" -o "../../test"
+   39  node sequelize-auto -h localhost -d mohit -u root -x root -p 3306 -l esm --dialect mariadb -c "../../package.json" -o "../../package.json"
+   40  node sequelize-auto -h localhost -d mohit -u root -x root -p 3306 -l esm --dialect mariadb -c "../../package.json" -o "../../test"
+   41  code .
+   42  npm i
+   43  npm start
+   44  node sequelize-auto -h localhost -d mohit -u root -x root -p 3306 -l esm --dialect mariadb -c "../../package.json" -o "../../test"
+   45  node sequelize-auto -h localhost -d studentdb -u root -x root -p 3306 -l esm --dialect mariadb -c "../../package.json" -o "../../test"
+   46  npm i sequelize-auto
+   47  nodemon server.js
+   48  npm install
+   49  nodemon server.js
+   50  node server.js
+   51  nodemon server.js
+   52  node server.js
+   53  nodemon server.js
+   54  node server.js
+   55  clear
+   56  npm run dev
+   57  history
+   58  exit
+   59  npm i express-validator
+   60  history 
+   61  exit
+   62  npm i
+   63  code .
+   64  exit
+   65  npm start
+   66  exit
+   67  node sequelize-auto -h localhost -d user db -u root -x root -p 3306 -l esm --dialect mariadb -c "../../package.json" -o "../../test"
+   68  node sequelize-auto -h localhost -d test -u root -x root -p 3306 -l esm --dialect mariadb -c "../../package.json" -o "../../test"
+   69  npm start
+   70  npm i mariadb
+   71  npm i sequelize sequelize-auto
+   72  npm update
+   73  clear
+   74  npm i
+   75  code .
+   76  exit 
+   77  sudo apt-get install git
+   78  git --version
+   79  git config --global user.email "eparis@atlassian.com"
+   80  git config --global user.email "mohit.pardhi@aitglobalinc.com"
+   81  git clone git config --global user.email "eparis@atlassian.com"
+   82  git clone https://git.aitglobalindia.com/ait-inhouse/hub-node.git
+   83  git branch 
+   84  cd hub-node/
+   85  git branch 
+   86  git checkout origin/develop 
+   87  git checkout develop 
+   88  ll
+   89  code .
+   90  exit
+   91  exit
+   92  history 
+   93  npm i
+   94  npm run dev
+   95  npm i joi
+   96  npm i joi-password-complexity
+   97  npm run dev
+   98  npm i bcrypt
+   99  npm run dev
+  100  node sequelize-auto -h 192.168.1.249 -d myaitdev -u admin -x P@ssword -p 3306 -l esm --dialect mariadb -c "../../package.json" -o "../../test"
+  101  node sequelize-auto -h localhost -d test -u root -x root -p 3306 -l esm --dialect mariadb -c "../../package.json" -o "../../test"
+  102  npm i sequelize sequelize-auto
+  103  npm i mariadb
+  104  clear
+  105  nodemon server.js 
+  106  sudo npm install -g nodemon
+  107  nodemon server.js 
+  108  clear
+  109  nodemon server.js 
+  110  npm run dev
+  111  nodemon server.js 
+  112  npm run dev
+  113  git status 
+  114  git branch 
+  115  git branch login-logout
+  116  git checkout login-logout 
+  117  git status 
+  118  git add .
+  119  git commit -m "login logout JWT functionality"
+  120  git push origin login-logout 
+  121  npm run dev
+  122  sudo apt install kazam
+  123  exit
+  124  npm run dev
+  125  git status 
+  126  git checkout 
+  127  git branch httperror
+  128  git checkout httperror 
+  129  git status 
+  130  git commit -m "done"
+  131  git add .
+  132  git commit -m "done"
+  133  git push origin httperror 
+  134  exit
+  135  npm run dev
+  136  clear
+  137  exit
+  138  fuser -n tcp -k 9001 
+  139  fuser -n tcp -k 8080 
+  140  exit
+  141  npm run dev
+  142  exit
+  143  tsc -v
+  144  node --version
+  145  node -v
+  146  npm -v
+  147  exit
+  148  cat package.json 
+  149  node mysql2 -v
+  150  mysql2 -v
+  151  node mysql2 --version
+  152  node -v
+  153  nodemon -v
+  154  atob -v
+  155  node -g
+  156  npm -g
+  157  npm -l
+  158  npm bin
+  159  npm bin ll
+  160  npm bin -l
+  161  npm edi
+  162  npm edit
+  163  clear
+  164  npm -l
+  165  npm whoami
+  166  npm view
+  167  npm view -json
+  168  npm view --json
+  169  npm version
+  170  clear
+  171  npm typescript
+  172  npm bin -g
+  173  clear
+  174  exit 
+  175  git status 
+  176  git branch 
+  177  git branch httpErrorSolved
+  178  git checkout  httpErrorSolved
+  179  git branch 
+  180  git add .
+  181  git commit -m "Lgin logot http Error reset password solved"
+  182  git push origin httpErrorSolved 
+  183  sudo ufw allow 8081
+  184  npm rn dev
+  185  npm run dev
+  186  node sequelize-auto -h 192.168.1.249 -d myaitdev -u admin -x P@ssword -p 3306 -l esm --dialect mariadb -c "../../package.json" -o "../../test"
+  187  history 4
+  188  history
+  189  clear
+  190  exit
+  191  history 
+  192  npm run dev
+  193  ping hubdev.aitglobalindia.com
+  194  exit
+  195  git status 
+  196  git checkout 
+  197  git branch https
+  198  git checkout https 
+  199  git status 
+  200  git add .
+  201  git commit -m "HTTP and HTTPS"
+  202  git push origin https
+  203  exit
+  204  poweroff 
+  205  openssl
+  206  cd app/cert/
+  207  ll
+  208  clear
+  209  openssl genrsa -out key.pem
+  210  clear
+  211  openssl x509 -req -days 365 -in csr.pem -signkey key.pem -out cert.pem
+  212  node fs.readdirSync(path.join(__dirname, "app/cert",'key.pem'))
+  213  npm run dev
+  214  clear
+  215  exit
+  216  exit
+  217  npm run dev
+  218  exit
+  219  reboot 
+  220  history 
+  221  git status 
+  222  git branch 
+  223  git branch SSLCert
+  224  git checkout 
+  225  git checkout SSLCert 
+  226  git status 
+  227  git add .
+  228  git commit -m "SSL Certificate error solverd"
+  229  git push origin SSLCert 
+  230  clear
+  231  git add .
+  232  git commit -m "SSL Certificate error solverd env error"
+  233  git push origin SSLCert 
+  234  cleat
+  235  clear
+  236  npm run dev
+  237  clear
+  238  npm run dev
+  239  clear
+  240  history 
+  241  ll
+  242  cd Desktop/
+  243  history > test.txt
